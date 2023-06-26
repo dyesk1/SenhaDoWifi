@@ -38,6 +38,7 @@ object ClassExecutaCMD: TClassExecutaCMD
     Top = 451
     Width = 169
     Height = 15
+    Anchors = [akLeft, akBottom]
     AutoSize = False
     Caption = 'Digite o nome da rede aqui ->'
   end
@@ -76,9 +77,6 @@ object ClassExecutaCMD: TClassExecutaCMD
     Color = clWhite
     ParentBackground = False
     TabOrder = 3
-    ExplicitLeft = 136
-    ExplicitTop = 152
-    ExplicitWidth = 185
     DesignSize = (
       867
       41)
